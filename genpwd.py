@@ -51,7 +51,7 @@ def usage(good_args=True):
     print '''help:
     {f} -h \t# show this help
     {f} -c \t# copy password to clipboard
-    {f} -h \t# show password in stdout
+    {f} -s \t# show password in stdout
     '''.format(f=__file__)
 
 
